@@ -10,12 +10,12 @@ public class SampleTest {
 		System.out.println("this is maven project-user1");
 		
 		
-		
-		
-		System.out.println("this is the first commit");
+
 		
 		
 		
+		System.out.println("this is fourth commit");
+
 	}
 
 }
