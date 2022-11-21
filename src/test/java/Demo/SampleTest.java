@@ -7,6 +7,11 @@ public class SampleTest {
 	public void test()
 	{
 		System.out.println("this is a sample test");
+		System.out.println("this is maven project-user1");
+		
+		
+		
+		
 	}
 
 }
